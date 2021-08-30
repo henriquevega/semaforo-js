@@ -1,0 +1,11 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.buttonRow {
+    margin-left: 570px;
+    align-items: center;
+    
+}
